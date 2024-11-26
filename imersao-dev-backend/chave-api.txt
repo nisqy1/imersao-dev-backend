@@ -1,0 +1,6 @@
+chave api AIzaSyCeHVsm_PNTmXZBYhnzcRzr9P26HxKhhxs
+
+mongodb+srv://anelizaparussulo1:<db_password>@cluster0.rdgcu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+anelizaparussulo1 
+01062003Ane#
